@@ -1,0 +1,18 @@
+.container{
+    margin: 2em;
+    background-color: rgb(186, 208, 228);
+    height: 80vh;
+}
+.first{
+    float: left;
+    width: 80%;
+    height: inherit;
+    background-color: khaki;
+
+}
+.second{
+    float: left;
+    width: 20%;
+    height: inherit;
+    background: lightcoral;
+}
